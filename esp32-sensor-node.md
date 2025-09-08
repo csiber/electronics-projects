@@ -35,3 +35,12 @@ void loop() {
   client.publish("homelab/sensor1", buf);
   delay(30000);
 }
+
+
+Lessons
+
+ESP32 is cheap but powerful; perfect for IoT experiments
+
+MQTT is lightweight and integrates easily with Dockerized brokers like Mosquitto
+
+Hardware + software integration is addictive — you see the data you collect
