@@ -7,7 +7,7 @@ These aren’t polished products, just **real-world examples** of where software
 
 ---
 
-## 🔌 Example Projects
+## 🔌 Projects
 
 - [ESP32 Sensor Node](./esp32-sensor-node.md)  
   Simple temperature/humidity node with MQTT integration.  
